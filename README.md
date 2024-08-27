@@ -1,2 +1,2 @@
-# golang-ttd
-TTD golang projects
+# golang-tdd
+TDD golang projects
